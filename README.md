@@ -6,3 +6,11 @@ Além disso, o projeto permite realizar a venda de uma motocicleta a um cliente,
 Tecnologias utilizadas:
  - Java
  - SQL
+
+##  🔸 Screenshots
+<p align="left">
+▫️ Desktop </br>
+<img src="./prints/print1.png"></br>
+<img src="./prints/print2.png"></br>
+<img src="./prints/print3.png"></br>
+<img src="./prints/print4.png"></br>
